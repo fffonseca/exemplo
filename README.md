@@ -1,2 +1,3 @@
 # exemplo
-Exemplo de um repositório em Git + GitHub.
+Programação III (23/24)
+Repositório de exemplo com recurso ao Git + GitHub.
